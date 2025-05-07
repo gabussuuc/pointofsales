@@ -1,0 +1,86 @@
+body {
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: #34495e;
+    font-size: 3rem;
+}
+
+form {
+    text-align: center;
+    padding: 20px;
+}
+
+input {
+    margin: 12px;
+    width: 300px;
+    padding: 8px;
+    border: 1px solid #34495e;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #34495e;
+    border: 1px solid #34495e;
+    border-radius: 4px;
+    padding: 6px;
+    width: 320px;
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #4d6c8b;
+    transition-duration: 300ms;
+}
+
+table {
+    margin-top: 50px;
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: 170px;
+}
+
+th {
+    background-color: #34495e;
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+}
+td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.back {
+    background-color: red;
+    padding: 8px;
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    margin-left: 170px;
+}
+
+.back:hover {
+    background-color: rgb(254, 90, 90);
+    transition-duration: 300ms;
+}
+
+.back2 {
+    background-color: red;
+    padding: 4px 132px;
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    align-items: center;
+}
+
+.back2:hover {
+    background-color:rgb(254, 90, 90);
+    transition-duration: 300ms;
+}

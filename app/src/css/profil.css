@@ -1,0 +1,75 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    background-color: rgb(25, 59, 195);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: 150px;
+    width: 350px;
+    height: 550px;
+    text-align: left;
+    box-shadow: 8px 8px black;
+    border-radius: 10px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.card h2 {
+    text-align: center;
+}
+.card p {
+    color: white;
+    font-size: 1.2rem;
+    margin: 30px ;
+}
+
+.card h2 {
+    color: white;
+}
+
+.card a {
+    background-color: green;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+form {
+    background-color: rgb(25, 59, 195);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 750px;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    box-shadow: 8px 8px black;
+    border-radius: 10px;
+}
+
+input {
+    margin-top: 30px;
+    padding: 5px;
+    border-radius: 8px;
+    border: 1px groove rgb(25, 59, 195);
+}
+
+form button {
+    margin: 30px;
+    border: 1px groove rgb(25, 59, 195);
+    padding: 8px 12px;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+}
+
+form a {
+    text-decoration: none;
+    color: white;
+    
+}
